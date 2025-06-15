@@ -11,6 +11,7 @@ Platinum introduces 15 new functions, with fast outputs and correct, precise res
 	3.2. Math Functions
 4. Quartile/Z-Test/P-Test selector variables
 
+
 1. Initialize the Platinum library
 
 For the Platinum library to work, it needs:
@@ -52,6 +53,7 @@ These statements are equivalent: pnorm(x,0,1) == p_standard(x)
 	3.2: Math Functions
 
  15. Primality Function	pt.primality(test_number)	-> It outputs whether a number is prime or composite, and its factors.
+
 
 
 4. Quartile/Z-Test/P-Test selector variables
